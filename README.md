@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Riad Mahmud Chowdhury</h1>
 
-<!--
-**riadc916/riadc916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science & Technology Student • Nantong University
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+🌐 <a href="https://zingy-dolphin-13ee07.netlify.app/">Website</a> •
+<a href="https://orcid.org/0009-0000-8946-4458">ORCID</a> •
+<a href="https://linkedin.com/in/riad-mahmud-chowdhury-45875a424">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Hi, I'm Riad 👋 I'm a 4th year student pursuing **Computer Science and Technology** 
+at Nantong University, Jiangsu, China.
+
+Currently, I'm learning **Data Analytics** and building my skills in extracting 
+insights from data. I know **Java** and **Python**, and I'm recently learning **R** 
+to strengthen my data analysis and statistical computing skills.
+
+I enjoy combining my programming background with data analytics to solve 
+real-world problems, and I'm always eager to learn new tools and technologies.
+
+---
+
+## Skills & Interests
+
+- 💻 Programming: Java, Python, R (learning)
+- 📊 Data Analytics
+- 🎓 Computer Science & Technology
+- 🌱 Continuous Learning
+- 🤝 Open to Collaboration
+
+*"Learning today, building tomorrow."*
