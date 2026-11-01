@@ -7,9 +7,9 @@ Computer Science & Technology Student • Nantong University
 <p align="center">
   <a href="https://zingy-dolphin-13ee07.netlify.app/">🌐 Website</a> • 
   <a href="https://orcid.org/0009-0000-8946-4458">ORCID</a> • 
-  <a href="https://scholar.google.com/citations?hl=en&user=f_XbnxgAAAAJ" target="_blank" rel="noopener noreferrer">
-        <i class="ai ai-google-scholar"></i> Google Scholar
-    </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=f_xBnxgAAAAJ" target="_blank" rel="noopener noreferrer">
+                        <i class="ai ai-google-scholar"></i> Google Scholar
+                    </a>
 </p>
 
 ---
