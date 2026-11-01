@@ -7,7 +7,7 @@ Computer Science & Technology Student • Nantong University
 <p align="center">
 🌐 <a href="https://zingy-dolphin-13ee07.netlify.app/">Website</a> •
 <a href="https://orcid.org/0009-0000-8946-4458">ORCID</a> •
-<a href="https://linkedin.com/in/riad-mahmud-chowdhury-45875a424">LinkedIn</a>
+<a href="[https://linkedin.com/in/riad-mahmud-chowdhury-45875a424](https://scholar.google.com/citations?hl=en&user=f_xBnxgAAAAJ)">Scholar</a>
 </p>
 
 ---
