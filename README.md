@@ -1,7 +1,7 @@
 <h1 align="center">Riad Mahmud Chowdhury</h1>
 
 <p align="center">
-Computer Science & Technology Student • Nantong University
+Computer Science & Technology Student • Nantong University | Founder @datapulse-lab-ds 
 </p>
 
 <p align="center">
